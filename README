@@ -9,6 +9,9 @@ documentation or release infrastructure. If you want to use it, please get in
 touch <philip.withnall@collabora.co.uk> and we can get the ball rolling on
 adding some of that infrastructure.
 
+Some unit tests are provided in test-authentication.c, but they have not been
+hooked up.
+
 Dependencies
 ============
 
