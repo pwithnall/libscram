@@ -18,6 +18,15 @@ Dependencies
  • glib-2.0 ≥ 2.38.0
  • gio-2.0 ≥ 2.38.0
 
+Other implementations
+=====================
+
+GNU SASL (libgsasl) also provides an implementation of SCRAM, alongside
+various other SASL authentication protocols. If you need support for more
+than just SCRAM, it makes more sense to use libgsasl than libscram.
+
+https://www.gnu.org/software/gsasl/
+
 Licensing
 =========
 
