@@ -6,7 +6,7 @@ protocol, as described in RFC 5802.
 
 It is a mostly-unsupported code dump at the moment, with no build system, tests,
 documentation or release infrastructure. If you want to use it, please get in
-touch <philip.withnall@collabora.co.uk> and we can get the ball rolling on
+touch <philip@tecnocode.co.uk> and we can get the ball rolling on
 adding some of that infrastructure.
 
 Some unit tests are provided in test-authentication.c, but they have not been
@@ -35,4 +35,4 @@ libscram is licensed under the LGPL; see COPYING for more details.
 Contact
 =======
 
-Philip Withnall <philip.withnall@collabora.co.uk>
+Philip Withnall <philip@tecnocode.co.uk>
